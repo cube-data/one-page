@@ -1,2 +1,2 @@
 # one-page
-Homepage for www.cubedata.one
+Homepage for 1.cubedata.one
